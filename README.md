@@ -1,3 +1,4 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
 # Global AI Readiness Dashboard
 
 Interactive dashboard analyzing AI readiness across countries.
